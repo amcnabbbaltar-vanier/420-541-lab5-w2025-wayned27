@@ -57,24 +57,24 @@ ModelImporter:
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events:
-      - time: 0.15902965
+      - time: 0.16210938
         functionName: EnableHitbox
         data: 
-        objectReferenceParameter: {fileID: 11500000, guid: 48234a43f467362438aa8d9513e489e6, type: 3}
+        objectReferenceParameter: {instanceID: 0}
         floatParameter: 0
         intParameter: 0
         messageOptions: 0
-      - time: 0.24797843
-        functionName: PlayPunchSound
-        data: 
-        objectReferenceParameter: {fileID: 11500000, guid: f4c8e0d198e55cb4a89f11823c6930fa, type: 3}
-        floatParameter: 0
-        intParameter: 0
-        messageOptions: 0
-      - time: 0.51482475
+      - time: 0.17693412
         functionName: DisableHitbox
         data: 
-        objectReferenceParameter: {fileID: 11500000, guid: 48234a43f467362438aa8d9513e489e6, type: 3}
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.24797845
+        functionName: PlayPunchSound
+        data: 
+        objectReferenceParameter: {instanceID: 0}
         floatParameter: 0
         intParameter: 0
         messageOptions: 0
